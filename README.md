@@ -12,6 +12,12 @@ pre-commit install
 
 ## Usage
 Download mutaties through the CLI:
+### Credentials as Environment Varialbles:
+```bash
+python mutaties_to_csv.py
+```
+
+### Credentials as parameters
 ```bash
 python mutaties_to_csv.py \
   --username <your_username> \
