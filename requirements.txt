@@ -1,0 +1,4 @@
+black==23.1.0
+pandas~=1.5.3
+pre-commit==3.1.1
+zeep~=4.2.1

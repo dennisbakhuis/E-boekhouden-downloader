@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*.csv
+local_stuff/
+.idea/
+__pycache__/
